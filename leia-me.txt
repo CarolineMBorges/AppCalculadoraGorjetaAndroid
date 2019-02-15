@@ -1,0 +1,2 @@
+Esse aplicativo faz o cálculo da gorjeta baseado no valor total e na porcentagem de gorjeta inseridos pelo usuário.
+A gorjeta é escolhida pelo usuário através de um SeekBar.
